@@ -1,1 +1,6 @@
 food.txt
+Smoked salmon
+Cream cheese
+Bagels
+Lemon
+Black pepper
